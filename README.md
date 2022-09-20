@@ -1,0 +1,1 @@
+# Proyectos es una visión a mi aprendizaje y conocimientos. Son los primeros pasos en un camino que recién comienza <06/06/2021> relacionado al testing y al mundo IT, junto con los cursos, las dudas y los tips que pudiera ir dejando para quienes vayan recorriendo mi mismo camino.
